@@ -3,22 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>index</title>
-    <style>
-        table {
-            border: 1px solid #ccc;
-            border-spacing: 3px;
-        }
-         
-        td, th{
-            border: solid 1px #ccc;
-        }
-        .collapsed{
-            border-collapse: collapse;
-        }
-        .separated{
-            border-collapse: separate;
-        }
-        </style>
 </head>
 <body>
     <h4>Выполнен переход на index.html</h4>
