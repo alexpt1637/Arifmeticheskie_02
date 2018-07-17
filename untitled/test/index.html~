@@ -3,6 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <title>index</title>
+    <style>
+        table {
+            border: 1px solid #ccc;
+            border-spacing: 3px;
+        }
+         
+        td, th{
+            border: solid 1px #ccc;
+        }
+        .collapsed{
+            border-collapse: collapse;
+        }
+        .separated{
+            border-collapse: separate;
+        }
+        </style>
 </head>
 <body>
     <h4>Выполнен переход на index.html</h4>
@@ -22,13 +38,35 @@
 <tr>
 <td>1</td>
 <td>2</td>
-<td>5</td>
+<td>3</td>
 </tr>
 <tr>
-<td>3</td>
 <td>4</td>
+<td>5</td>
 <td>6</td>
 </tr>
 </table>
+<script>
+    var a = 12, b = 5, c = a / b;
+    var srt = 'Это новый скрипт';
+    alert('New script: ' + srt + ', переменная c = ' + c);
+    var d = a * b;
+    alert ('d = ' + d);
+    alert("Вычисление выражения, значение а = " + a);
+    var a = 5 + 8;
+    var d2 = a * b;
+    alert("Новое значение а = " + a + ", d = " + d + ", d2 = " + d2);
+    var date = new Date();      // получаем текущую дату
+    var time = date.getHours(); // получаем текущее время в часах
+    if(time <= 9)               // сравниваем время с число 9
+        alert('Доброе утро! Сейчас ' + time + ' часов');    // если время меньше 9
+    if(9 > time < 18)                                       // сравниваем время с число 18
+        alert('Добрый день! Сейчас ' + time + ' часов');    // если время меньше 18
+    else
+        alert('Добрый вечер! Сейчас ' + time + ' часов');   // если время равно 18 и больше
+    // подключим файл на веб-страницу:
+</script>
+    <h4>Теперь подключим файл на веб-страницу</h4>
+<script src="js/main-2.js"></script>
 </body>
 </html>

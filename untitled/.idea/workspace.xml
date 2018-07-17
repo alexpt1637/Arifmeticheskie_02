@@ -58,8 +58,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="51" column="18" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="21" />
+            <state relative-caret-position="463">
+              <caret line="69" column="36" lean-forward="true" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -112,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,11 +130,16 @@
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,26 +165,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.main-1.js">
+  <component name="RunManager" selected="Node.js.main-2.js">
     <configuration name="3.2.Элементы.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/test/3.2.Элементы.html" />
     <configuration name="3.3.Кнопки.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/test/3.3.Кнопки.html" />
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/test/index.html" />
     <configuration name="main-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="main-1.js" working-dir="$PROJECT_DIR$/js" />
+    <configuration name="main-2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="main-2.js" working-dir="$PROJECT_DIR$/test/js" />
     <configuration name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/js" />
     <list>
       <item itemvalue="JavaScript Debug.3.2.Элементы.html" />
-      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.main.js" />
       <item itemvalue="JavaScript Debug.3.3.Кнопки.html" />
       <item itemvalue="Node.js.main-1.js" />
+      <item itemvalue="Node.js.main-2.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main-2.js" />
         <item itemvalue="Node.js.main-1.js" />
         <item itemvalue="JavaScript Debug.3.3.Кнопки.html" />
         <item itemvalue="JavaScript Debug.3.2.Элементы.html" />
         <item itemvalue="Node.js.main.js" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -196,16 +202,17 @@
       <workItem from="1531306750739" duration="8451000" />
       <workItem from="1531491177489" duration="1098000" />
       <workItem from="1531492489824" duration="335000" />
+      <workItem from="1531750363584" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11479000" />
+    <option name="totallyTimeSpent" value="11723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15300146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1522694" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -233,6 +240,47 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/01.Атрибуты.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/3.1.Формы.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/3.2.Элементы.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/3.3.Кнопки.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main-1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/01.Атрибуты.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -373,10 +421,13 @@
     <entry file="file://$PROJECT_DIR$/js/main-1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/js/main-2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="21" />
+        <state relative-caret-position="463">
+          <caret line="69" column="36" lean-forward="true" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
         </state>
       </provider>
     </entry>
