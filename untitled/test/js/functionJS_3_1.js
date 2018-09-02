@@ -5,9 +5,10 @@ function display(){
 
 display();
 
-var strWin = prompt("Введите трехзначное число", 100);
-var str = parseInt(strWin);
-document.write(", было введено число: " + str);
+// prompt - окно ввода значения
+var strWin = prompt("Введите трехзначное число", 100);  // после запятой выводимое в окне значение по умолчанию
+var str = parseInt(strWin);                             // распознаётся введённое в окне значение и сохраняется в переменую str
+document.write(", было введено число: " + str);         // вывод введённого значения
 
 var s;
 
