@@ -4,7 +4,7 @@
 <title>JS 3.1 Функции</title>
 <meta name="generator" content="Bluefish 2.2.10" >
 <meta name="author" content="acer" >
-<meta name="date" content="2018-07-17T16:38:17+1000" >
+<meta name="date" content="2018-07-17T16:41:46+1000" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -18,8 +18,10 @@
 	<section>Функции</section>
 	<h4>Функции</h4>
 	<script src="js/functionJS_3_1.js"></script>
+	<p>New</p>
 	<div align="left" name="Функции">
 	Голливудский актер и бывший губернатор американского штата Калифорния Арнольд Шварценеггер заявил, что президент США Дональд Трамп был похож на «маленькую вареную макаронину» на саммите с российским коллегой Владимиром Путиным.	
 	</div>
+	<script src="js/main.js"></script>
 </body>
 </html>
